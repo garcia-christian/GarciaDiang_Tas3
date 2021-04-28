@@ -1,0 +1,26 @@
+{
+  "name": "garciadiang_task3",
+  "version": "1.0.0",
+  "description": "HR Schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garcia-christian/GarciaDiang_Tas3.git"
+  },
+  "keywords": [
+    "Aggregate",
+    "Functions"
+  ],
+  "author": "GarciaDiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garcia-christian/GarciaDiang_Tas3/issues"
+  },
+  "homepage": "https://github.com/garcia-christian/GarciaDiang_Tas3#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
